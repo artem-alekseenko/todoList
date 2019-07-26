@@ -14,7 +14,7 @@
     user-select: none;
 }
 
-.tTodoListItem.done .TodoListItem-Label {
+.TodoListItem.done .TodoListItem-Label {
     text-decoration: line-through;
 }
 
