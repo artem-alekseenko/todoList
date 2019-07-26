@@ -1,3 +1,11 @@
 .ItemAddForm {
     margin-top: 10px;
 }
+
+.ItemAddForm input {
+    margin-right: 8px;
+}
+
+.ItemAddForm button {
+    flex-basis: 116px;
+}
